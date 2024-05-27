@@ -1,2 +1,3 @@
 # ATM-Simulator
-Atm simulator 
+Atm simulator implemented in Java
+
